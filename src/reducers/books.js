@@ -1,6 +1,6 @@
 export default function () {
   return [
-    { title: 'Javascript: the good parts'},
+    { title: 'YDKJS'},
     { title: 'The art of war'},
     { title: ''},
     { title: 'Harry'},
